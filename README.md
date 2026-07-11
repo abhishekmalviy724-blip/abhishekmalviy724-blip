@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hii I'm Abhishek 
 - 🎓 Student at **Oriental University**<br>- 🐍 Currently learning **Python Programming**<br>- 🤖 Interested in **Artificial Intelligence & Machine Learning**<br>- 💡 Passionate about solving real-world problems with code<br>- 🌱 Currently improving my Python, AI, and ML skills<br>- 🎯 Goal: Become a professional AI/ML Engineer<br><br>---
 
 
